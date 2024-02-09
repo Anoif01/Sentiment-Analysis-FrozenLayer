@@ -3,4 +3,4 @@
 
 Kaggle Competition link: https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews
 
-Code reference : https://www.kaggle.com/code/kickitlikeshika/bert-for-sentiment-analysis-5th-place-solution by AHMED KHALED.
+Code reference: https://www.kaggle.com/code/kickitlikeshika/bert-for-sentiment-analysis-5th-place-solution by AHMED KHALED.
