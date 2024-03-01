@@ -10,3 +10,8 @@ Finetune 5 Models:
   -  https://huggingface.co/prajjwal1/bert-mini
   -  https://huggingface.co/prajjwal1/bert-small
   -  https://huggingface.co/distilbert/distilbert-base-uncased
+
+###
+In this study, a movie review sentiment classification task was carried out using the Huggingface official IMDB dataset.
+In Bert and its variants, only the number of frozen layers, N, was studied, while other hyper-parameters were kept constant.
+All experiments were conducted on Google Colab using A100 GPUs.
