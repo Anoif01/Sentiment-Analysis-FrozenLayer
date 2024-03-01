@@ -1,6 +1,12 @@
 # Personal project: Sentiment-Analysis-FrozenLayer
-## A study of the performance of the frozen-layer technique on the Bert model and its variants using Kaggle's Movie Review dataset.
+## A study of the performance of the frozen-layer technique on the Bert model and its variants using HuggingFace's IMDB (Movie Review dataset).
 
-Kaggle Competition link: https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews
+Dataset link: https://huggingface.co/datasets/imdb
 
-Code reference: https://www.kaggle.com/code/kickitlikeshika/bert-for-sentiment-analysis-5th-place-solution by AHMED KHALED.
+Fintuned 5 Models: 
+
+  -  https://huggingface.co/google-bert/bert-base-uncased
+  -  https://huggingface.co/prajjwal1/bert-tiny
+  -  https://huggingface.co/prajjwal1/bert-mini
+  -  https://huggingface.co/prajjwal1/bert-small
+  -  https://huggingface.co/distilbert/distilbert-base-uncased
