@@ -3,7 +3,7 @@
 
 Dataset link: https://huggingface.co/datasets/imdb
 
-Fintuned 5 Models: 
+Finetune 5 Models: 
 
   -  https://huggingface.co/google-bert/bert-base-uncased
   -  https://huggingface.co/prajjwal1/bert-tiny
