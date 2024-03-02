@@ -3,7 +3,7 @@
 
 ## Introduction
 **Does fine-tuning the whole model always yield the best results ?**
-In this study, I use the Huggingface IMDB dataset for a sentiment classification task of movie reviews. While keeping other hyperparameters constant, I vary the number of frozen layers (N) in Bert and its variants. The experiments were all conducted on Google Colab, using T4 and A100 GPUs.
+In this study, I use the Huggingface IMDB dataset for a sentiment classification task of movie reviews. While keeping other hyperparameters constant, I vary the number of frozen layers (N) in Bert and its variants. The experiments were all conducted on Google Colab, using A100 GPUs.
 
 ## Some conclusions
 **Model Optimization Insights**
