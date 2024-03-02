@@ -6,7 +6,9 @@
 In this study, I use the Huggingface IMDB dataset for a sentiment classification task of movie reviews. While keeping other hyperparameters constant, I vary the number of frozen layers (N) in Bert and its variants. The experiments were all conducted on Google Colab, using A100 GPUs.
 
 ## Some conclusions
+
 **Model Optimization Insights**
+
 This recent analysis provides valuable insights into enhancing model performance effectively. The findings indicate that **optimal results are achieved by freezing approximately half of the encoder layers** (e.g., N=2, 4, 6). This strategy highlights that **the initial layers of pretrained models possess universally applicable knowledge crucial** for various NLP tasks, which should be preserved during the fine-tuning process to mitigate over-fitting risks.
 
 Furthermore, the freeze-layer technique not only boosts model accuracy but also considerably reduces training time. This approach facilitates an efficient and effective equilibrium between performance improvement and computational efficiency.
